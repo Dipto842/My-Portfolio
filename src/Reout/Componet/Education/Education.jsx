@@ -51,7 +51,7 @@ const Education = () => {
     <p>Humanities , HSC </p>
     <p>Pass(2023)
     </p>
-    <p>Sechon (2021-2022 )</p>
+    <p>session (2021-2022 )</p>
     <div className="card-actions justify-end">
       <div className="badge badge-outline  text-[#ff014f]">pass</div>
       
@@ -74,7 +74,7 @@ Santhia, pabna.
     </h2>
     <p>Science, SSC</p>
     <p> pass(2021)</p>
-    <p> Sechon(2019 - 2020 )</p>
+    <p> session(2019 - 2020 )</p>
     <div className="card-actions justify-end">
     <div className="badge badge-outline  text-[#ff014f]">pass</div>
    

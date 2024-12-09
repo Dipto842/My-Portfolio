@@ -96,8 +96,8 @@ alt="Shoes" />
 <h1 className='text-3xl'>Dipto Bokshi</h1>
 </h2>
 <p className='mb-5 opacity-75'> {text} <span className="text-[#ff014f] opacity-80">|</span> </p>
-<p className='opacity-70'>I am available for work. Connect with me through or call my no.</p>
-<p className='opacity-75'> Phone: 01791620986</p>
+<p className='opacity-70'>Connect with me through  call .  My contact number is </p>
+<p className='opacity-75'> Phone/WhatsApp:+880 1791620986</p>
 <p className='opacity-75'>  Email: diptobakshi72@gmail.com</p>
 
 <p className='text-xl opacity-85'>Find with me</p>
