@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap');
+.font{
+    font-family: "Playfair Display", serif;
+
+}
+.box-shadow{
+    box-shadow:  rgba(0, 0, 0, 0.7) 1px 4px 2px -3px inset, rgba(255, 255, 255, 0.2) -1px -3px 3px -2px inset;
+}
