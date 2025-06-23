@@ -17,7 +17,7 @@ const Sklys = () => {
           <div className="lg:flex gap-72 justify-center  text-white">
         
         <div className="mr-60">
-          <div className="card bg-[#212428]  w-[500px]   h-[340px] pl-8 shadow-xl shadow-[#373738]">
+          <div className="card bg-[#212428]  w-[500px]    pl-8 shadow-xl shadow-[#373738]">
             <h1 className="text-white text-3xl text-center mb-4 mt-2">Front-End Side</h1>
             <div className="grid grid-cols-3 gap-7">
               
@@ -27,6 +27,7 @@ const Sklys = () => {
               <p className="hover:-translate-y-3"> <img  width={'80px'} src={'https://md-ataullah.web.app/assets/4-D1Q3zTSR.svg'}/><p className="ml-4 mt-1">React.JS</p></p>
               <p className="hover:-translate-y-3"> <img   width={'80px'} src={'https://md-ataullah.web.app/assets/5-DcHMH4I0.svg'}/><p className="ml-4 mt-1">Tailwind CSS</p></p>
               <p className="hover:-translate-y-3"> <img className="text-white bg-slate-50 rounded-full" width={'80px'} src={'https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png'}/><p className="ml-4 mt-1">Next.JS</p></p>
+              <p className="hover:-translate-y-3 mb-5"> <img className="text-white bg-slate-50 rounded-full" width={'80px'} src={'https://img.icons8.com/?size=100&id=A6r5yddU9uA0&format=png&color=000000'}/><p className="ml-4 mt-1">Redux</p></p>
            
               
               
@@ -52,7 +53,7 @@ const Sklys = () => {
           </div>
         </div>
         <div className="hidden md:block border-2-2 absolute border-opacity-20 border-gray-100 lg:h-[1200px]  border left-1/2 "></div>
-        <div className="card bg-[#212428]  w-[500px]   h-[470px] pl-8 mt-96 shadow-xl shadow-[#373738]">
+        <div className="card bg-[#212428]  w-[500px]   h-[490px] pl-8 mt-96 shadow-xl shadow-[#373738]">
             <h1 className="text-white text-3xl text-center mb-4 mt-2">Backend Side</h1>
             <div className="grid grid-cols-3 gap-7">
               
@@ -63,8 +64,9 @@ const Sklys = () => {
               <p className="hover:-translate-y-3"> <img   width={'80px'} src={img1}/><p className="ml-4 mt-1">JWT Token</p></p>
               <p className="hover:-translate-y-3"> <img   width={'80px'} src={img3}/><p className=" mt-1">Mongoose</p></p>
               <p className="hover:-translate-y-3"> <img   width={'80px'} className='' src={img4}/><p className="ml-7 mt-1">NoSQL</p></p>
+              <p className="hover:-translate-y-3"> <img   width={'80px'} className='' src='https://media.lordicon.com/icons/wired/flat/1330-rest-api.svg'/><p className="ml-7 mt-1">REST API development</p></p>
             
-           
+          
               
               
              
