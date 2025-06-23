@@ -6,7 +6,7 @@ const Portfolio = () => {
   const [data, setdata] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:5000/Data")
+    fetch("https://my-portfolio-sarvar.onrender.com/Data")
       .then((res) => res.json())
       .then((res) => setdata(res));
   }, []);
